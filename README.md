@@ -1,1 +1,3 @@
-It's my first BO python code following youtube video
+It's my winter project @POSTECH
+
+Project is to optimize HF using LF
